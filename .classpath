@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Linked_List-master/src"/>
+	<classpathentry kind="src" path="Linked_List-uc1/src"/>
+	<classpathentry kind="src" path="Linked_List-uc10/src"/>
+	<classpathentry kind="src" path="Linked_List-uc2/src"/>
+	<classpathentry kind="src" path="Linked_List-uc3/src"/>
+	<classpathentry kind="src" path="Linked_List-uc4/src"/>
+	<classpathentry kind="src" path="Linked_List-uc5/src"/>
+	<classpathentry kind="src" path="Linked_List-uc6/src"/>
+	<classpathentry kind="src" path="Linked_List-uc7/src"/>
+	<classpathentry kind="src" path="Linked_List-uc8/src"/>
+	<classpathentry kind="src" path="Linked_List-uc9/src"/>
+	<classpathentry kind="output" path="Linked_List-master/bin"/>
+</classpath>
